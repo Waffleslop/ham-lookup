@@ -2,6 +2,8 @@
 
 A simple desktop tool for ham radio operators to quickly look up callsigns and Maidenhead grid squares.
 
+![Ham Lookup Screenshot](ham-lookup-screenshot.png)
+
 ## Features
 
 - **Callsign Lookup**: Enter a callsign and open its QRZ.com page
